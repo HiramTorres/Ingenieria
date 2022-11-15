@@ -1,0 +1,396 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.21)  3 FEB 2022 18:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Dell/Documentos/Procesos_de_Termodinamica/TORRES ESPINOSA HIRAM ISAI_TAREA5.tex"
+(c:/Users/Dell/Documentos/Procesos_de_Termodinamica/TORRES ESPINOSA HIRAM ISAI_TAREA5.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/11/29 3.67 The Babel package
+\babel@savecnt=\count191
+\U@D=\dimen139
+\l@unhyphenated=\language79
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count192
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Dell\AppData\Roaming\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks16
+\es@quotdepth=\count193
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+)) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count194
+\c@Blindtext=\count195
+\c@blind@countparstart=\count196
+\blind@countxx=\count197
+\blindtext@numBlindtext=\count198
+\blind@countyy=\count199
+\c@blindlist=\count266
+\c@blindlistlevel=\count267
+\c@blindlist@level=\count268
+\blind@listitem=\count269
+\c@blind@listcount=\count270
+\c@blind@levelcount=\count271
+\blind@mathformula=\count272
+\blind@Mathformula=\count273
+\c@blind@randomcount=\count274
+\c@blind@randommax=\count275
+\c@blind@pangramcount=\count276
+\c@blind@pangrammax=\count277
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count278
+\mult@box=\box50
+\multicol@leftmargin=\dimen140
+\c@unbalance=\count279
+\c@collectmore=\count280
+\doublecol@number=\count281
+\multicoltolerance=\count282
+\multicolpretolerance=\count283
+\full@width=\dimen141
+\page@free=\dimen142
+\premulticols=\dimen143
+\postmulticols=\dimen144
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen145
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@firstbox=\box55
+\mult@gfirstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\c@minrows=\count284
+\c@columnbadness=\count285
+\c@finalcolumnbadness=\count286
+\last@try=\dimen146
+\multicolovershoot=\dimen147
+\multicolundershoot=\dimen148
+\mult@nat@firstbox=\box93
+\colbreak@box=\box94
+\mc@col@check@num=\count287
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks19
+\SOUL@lasttoken=\toks20
+\SOUL@cmds=\toks21
+\SOUL@buffer=\toks22
+\SOUL@token=\toks23
+\SOUL@spaceskip=\skip51
+\SOUL@ttwidth=\dimen149
+\SOUL@uldp=\dimen150
+\SOUL@ulht=\dimen151
+) (C:\Users\Dell\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count288
+\l__pdf_internal_box=\box95
+) (TORRES ESPINOSA HIRAM ISAI_TAREA5.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `"TORRES ESPINOSA HIRAM ISAI_TAREA5.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 15.
+ [1
+
+{C:/Users/Dell/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 29.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 29.
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+
+ []
+
+[1]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 86.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 86.
+
+Missing character: There is no ° in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Overfull \hbox (24.3963pt too wide) in paragraph at lines 97--98
+[]$\OML/cmm/m/it/14.4 P \OT1/cmr/m/n/14.4 = []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
+
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 110.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 110.
+
+Missing character: There is no ° in font cmr12!
+
+Overfull \hbox (16.8657pt too wide) in paragraph at lines 111--112
+[]$\OML/cmm/m/it/14.4 P[] \OT1/cmr/m/n/14.4 = 6[]4\OML/cmm/m/it/14.4 atm\OT1/cmr/m/n/14.4 (648[]48\OML/cmm/m/it/14.4 Kpa\OT1/cmr/m/n/14.4 )$ 
+ []
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 112.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 112.
+
+Missing character: There is no ° in font cmr12!
+
+Overfull \hbox (12.9491pt too wide) in paragraph at lines 113--114
+[]$\OML/cmm/m/it/14.4 P[] \OT1/cmr/m/n/14.4 = 1\OML/cmm/m/it/14.4 atm\OT1/cmr/m/n/14.4 (101[]325\OML/cmm/m/it/14.4 Kpa\OT1/cmr/m/n/14.4 )$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+
+ []
+
+
+Overfull \hbox (28.37029pt too wide) in paragraph at lines 125--126
+[]$\OML/cmm/m/it/14.4 V[] \OT1/cmr/m/n/14.4 = []$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+[2]
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 141.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 141.
+
+Missing character: There is no ° in font cmr12!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 143.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 143.
+
+Missing character: There is no ° in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+[3] (TORRES ESPINOSA HIRAM ISAI_TAREA5.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 2364 strings out of 478659
+ 40305 string characters out of 2846394
+ 370430 words of memory out of 3000000
+ 20500 multiletter control sequences out of 15000+600000
+ 409589 words of font info for 47 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,6n,52p,253b,363s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Dell\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on "TORRES ESPINOSA HIRAM ISAI_TAREA5.pdf" (4 pages, 123270 bytes).
+PDF statistics:
+ 70 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
