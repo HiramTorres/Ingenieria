@@ -6,3 +6,6 @@ Desarrollo práctico y teórico de diferentes materias cursadas en la carrera de
 
 **Materias:**
 - Dinámica de fluidos
+- Ingeniería de calor  
+- Procesos de termodinámica
+
